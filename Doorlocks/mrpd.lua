@@ -482,8 +482,7 @@ Config.DoorList['molo_mrpd-outer_side'] = {
     doorType = 'single',
     authorizedJobs = { ['police'] = 0 },
     doors = {
-        {objName = -1952826461, objYaw = 180.02795410156, 
-        objCoords = vec3(479.700226, -979.432251, 28.159161)
+        {objName = -1952826461, objYaw = 180.02795410156, objCoords = vec3(479.700226, -979.432251, 28.159161)}
     },
     doorRate = 1.0,
     doorLabel = 'Side Glass Doors',
